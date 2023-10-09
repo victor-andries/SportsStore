@@ -23,7 +23,6 @@ Features
 
 Technologies Used
 
-
 -.NET Core
 
 -C#
