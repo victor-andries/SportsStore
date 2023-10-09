@@ -1,12 +1,12 @@
 Sports Store
 
-Introduction
+Introduction:
 
 Sports Store is a .NET Core web application designed for purchasing sports equipment. 
 It allows users to log in, browse a selection of sports items, add them to their cart, and proceed with a purchase (note that card details and payments are not processed in this sample project). 
 Additionally, there is an administration mode for managing sports articles.
 
-Features
+Features:
 
 -User authentication for logging in.
 
@@ -21,7 +21,7 @@ Features
 -Microsoft SQL Server for database management.
 
 
-Technologies Used
+Technologies Used:
 
 -.NET Core
 
