@@ -31,6 +31,6 @@ Technologies Used:
 
 -Entity Framework Core
 
--HTML, CSS, JavaScript
+-HTML, SCSS, JavaScript
 
 -Microsoft SQL Server
