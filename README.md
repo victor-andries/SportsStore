@@ -1,36 +1,23 @@
-Sports Store
+# Sports Store
 
-Introduction:
+## Introduction
 
-Sports Store is a .NET Core web application designed for purchasing sports equipment. 
-It allows users to log in, browse a selection of sports items, add them to their cart, and proceed with a purchase (note that card details and payments are not processed in this sample project). 
-Additionally, there is an administration mode for managing sports articles.
+**Sports Store** is a .NET Core web application designed for purchasing sports equipment. It allows users to log in, browse a selection of sports items, add them to their cart, and proceed with a purchase (note: payment processing is not included in this sample project). The application also features an administration mode for managing sports articles.
 
-Features:
+## Features
 
--User authentication for logging in.
+- **User Authentication**: Secure login for accessing the application.
+- **Browse Sports Items**: View a diverse selection of sports equipment.
+- **Shopping Cart**: Add items to your cart and review your selections.
+- **Administration Mode**: Manage and update sports articles through an admin interface.
+- **Front-End Design**: Developed using HTML, SCSS, and JavaScript for a responsive user experience.
+- **Database Management**: Utilizes Microsoft SQL Server for storing and managing data.
 
--Browse and purchase sports items.
+## Technologies Used
 
--Add items to a shopping cart.
-
--Administration mode for managing sports articles.
-
--HTML, CSS, and JavaScript for front-end design.
-
--Microsoft SQL Server for database management.
-
-
-Technologies Used:
-
--.NET Core
-
--C#
-
--ASP.NET Core MVC
-
--Entity Framework Core
-
--HTML, SCSS, JavaScript
-
--Microsoft SQL Server
+- **.NET Core**: Framework for building the application.
+- **C#**: Programming language used for the application logic.
+- **ASP.NET Core MVC**: Architecture for developing the web application.
+- **Entity Framework Core**: ORM for database access and management.
+- **HTML, SCSS, JavaScript**: Technologies used for front-end design and interactivity.
+- **Microsoft SQL Server**: Database system used for data storage.
